@@ -1,36 +1,36 @@
 ![https://media.discordapp.net/attachments/1080464895268638743/1090148265946787850/logo.jpg?width=715&height=150](https://media.discordapp.net/attachments/1080464895268638743/1090148265946787850/logo.jpg?width=715&height=150)
 
-- **`Team name` :** 🐉 디지털 드래곤즈
-- **`Project` :** 사회초년생들을 위한 금융플랫폼 (A financial platform for young adults)
+- **`Team name` :** 🐉 Digital Dragons
+- **`Project` :** A financial platform for young professionals
 - **`Project duration` :** 2023.03.03 - 2023.04.03
-- **`Team members` :** 임희연(팀장), 이민형, 임경아, 김예영(부팀장), 전진우
-- **`Link` :** [🌐 Dragon money](http://hp5234-dragonmoney-front.s3-website.ap-northeast-2.amazonaws.com/) [**관리자 구글계정:** Email: teamdragonmoney@gmail.com , PW: teamDragon123 ]
-- **`Service overview`:** [서비스 메뉴얼](https://drive.google.com/file/d/1V81Ne7O3yjywpLxzzbASDNtgRxAh-_Mg/view?usp=sharing)
-- **`Tech presentation`:** [기술발표영상](https://www.youtube.com/watch?v=WSenS382Kbs)
-- **`Functional Requirement`:** [사용자 요구사항 정의서](https://docs.google.com/spreadsheets/d/1nr49L2OUG_jmOi0T24SNNtoj28_lDOy6M9Insm4-Lxg/edit#gid=0)
-- **`API Specification`:** [API 명세서](https://drive.google.com/file/d/1kvp1tcQLoJIykf3k3vOgH9pT5Yg3RoeS/view?usp=sharing)
-- **`Table Description`:** [테이블 명세서](https://docs.google.com/spreadsheets/d/185-GV2zxd4lKD7yzKfGMzDbHp3pVn0L5agz17aXf6VM/edit?usp=sharing)
+- **`Team members` :** Anne Lim(Team Lead), Minhyung Lee, Kyunga Lim, Yaeyoung Kim, Jinwoo Jeon
+- **`Link` :** [🌐 Dragon money](http://hp5234-dragonmoney-front.s3-website.ap-northeast-2.amazonaws.com/) [**Admin Google Login:** Email: teamdragonmoney@gmail.com , PW: teamDragon123 ]
+- **`Service overview`:** [LINK](https://drive.google.com/file/d/1V81Ne7O3yjywpLxzzbASDNtgRxAh-_Mg/view?usp=sharing)
+- **`Tech presentation`:** [LINK](https://www.youtube.com/watch?v=WSenS382Kbs)
+- **`Functional Requirement`:** [LINK](https://docs.google.com/spreadsheets/d/1nr49L2OUG_jmOi0T24SNNtoj28_lDOy6M9Insm4-Lxg/edit#gid=0)
+- **`API Specification`:** [LINK](https://drive.google.com/file/d/1kvp1tcQLoJIykf3k3vOgH9pT5Yg3RoeS/view?usp=sharing)
+- **`Table Description`:** [LINK](https://docs.google.com/spreadsheets/d/185-GV2zxd4lKD7yzKfGMzDbHp3pVn0L5agz17aXf6VM/edit?usp=sharing)
 <br/>
 
-### 관리자로 로그인할 수 있는 구글계정 — email: teamdragonmoney@gmail.com , PW: teamDragon123
+### The server is no longer running. </br> Please review the project along with the provided description and images below.
 
 <br/>
 
 ## 🌲Git Branch
 
-`main` : 서비스 소개 브랜치 </br>
-`front-dev` : FE 개발 환경 브랜치 </br>
-`be-dev` : BE 개발 브랜치 : 운영중 </br>
-`feat/개발명` : 기능 개발 브랜치 ex) feat/Login  </br>
+`main` : Main branch </br>
+`front-dev` : FE Dev branch </br>
+`be-dev` : BE Dev branch </br>
+`feat/feature-name` : Feature-Specific branch created under front-dev or be-dev ex) feat/Login  </br>
 
 <br/>
 
 ## 🐉 Team
 
-|                  임희연<br>(FE, Team lead)                   |                        이민형<br>(FE)                        |                        임경아<br>(FE)                        |                   김예영<br>(BE, BE lead)                    |                        전진우<br>(BE)                        |
+|                  Anne (Heeyeon) Lim <br>(Team lead, FE)                   |                        Minhyung Lee<br>(FE)                        |                        Kyunga Lim<br>(FE)                        |                   Yaeyoung Kim<br>(BE, BE lead)                    |                        Jinwoo Jeon<br>(BE)                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://cdn.discordapp.com/attachments/1090912771551539210/1090913577608679474/image.png" height="100" width="100"> | <img src="https://cdn.discordapp.com/attachments/793349137596284930/1097386861791559710/ae34bba849941470.jpeg?width=800&height=785" height="100" width="100"> | <img src="https://media.discordapp.net/attachments/1090912771551539210/1090912798348943460/image.png?width=870&height=842" height="100" width="100"> | <img src="https://media.discordapp.net/attachments/1090912771551539210/1090913004033421372/image.png?width=642&height=595" height="100" width="100"> | <img src="https://media.discordapp.net/attachments/1090912771551539210/1090912919249752124/image.png?width=817&height=810" height="100" width="100"> |
-| <p align="left">**Pages**<br/>- 로그인 / 회원가입<br/>- 계정복구 <br />- 관리자 (신고처리)<br/>- 닉네임 설정<br/>- 공공대출추천<br/>- 임대주택 공고<br/>**Features**<br/>- Google OAuth login<br/>- 멤버 CD<br/>- 신고 글, 댓글, 답글 RD<br/>- 임대주택 R<br/></p> | <p align="left">**Pages**<br/>- 게시글 상세<br/>- 게시글 작성<br/>- 게시글 수정<br/></br>**Features**<br/>- 게시글 CRUD<br/>- 댓글 CRUD<br/>- 답글 CRUD<br/>- 좋아요, 싫어요 RCD<br/>- 북마크 CRD<br/>- 태그 CRD</p> | <p align="left">**Pages**<br/>- 커뮤니티<br/>- 마이페이지<br/>- 서울 전월세<br/><br/>**Features**<br/>- 게시글 검색<br/>- 페이지네이션<br/>- 게시글, 댓글, 답글 R<br/>- 멤버 RU<br/>- 서울전월세 R<br/><br/> </p> | <p align="left">**Features**<br/>- Google OAuth2.0 login<br/>- Spring security<br />- 인증 처리<br/>- 권한 처리<br/>- 회원 CRUD<br/>-마이페이지<br />- 신고 CRUD (관리자 기능)<br/>- 북마크 기능<br/></p> | <p align="left">**Features**<br/>- 배포환경 구성<br/>- 외부 api 연동 <br />(서울시 전월세, 임대주택 공고)<br/>- 이미지 추가, 삭제<br/>- 인기게시글 선정 및 추천<br/>- 명예의전당 게시글 선정<br/>- 추천 게시글 선정<br/>- 게시글 검색<br/>- 좋아요, 싫어요<br/>- 게시글 CRUD<br/>- 댓글, 답글 CRUD<br/>- 태그 CRUD<br/></p> |
+| <p align="left">**Pages**<br/>- Log in / Sign up<br/>- Account recovery <br />- Admin Page (Report system)<br/>- Set nickname <br/>- Recommend mortgage <br/>- Listings of available properties <br/>**Features**<br/>- Google OAuth login<br/>- User CD<br/>- Reported post, comment, reply RD<br/>- Properties listing R<br/></p> | <p align="left">**Pages**<br/>- Post detail<br/>- Write a post<br/>- Edit post<br/></br>**Features**<br/>- Post CRUD<br/>- Comment CRUD<br/>- Reply CRUD<br/>- Like, Dislike RCD<br/>- Bookmark CRD<br/>- Tag CRD</p> | <p align="left">**Pages**<br/>- Main Post Listing<br/>- My page<br/>- Seoul average rental price<br/><br/>**Features**<br/>- Search post<br/>- Pagination<br/>- Post, comment, reply R<br/>- User RU<br/>- Seoul average rental price R<br/><br/> </p> | <p align="left">**Features**<br/>- Google OAuth2.0 login<br/>- Spring security<br />- Authentication<br/>- Authorization<br/>- User CRUD<br/>-My Page<br />- Report CRUD (Admin)<br/>- Bookmark<br/></p> | <p align="left">**Features**<br/>- Deployment architecture<br/>- External APIs <br />- Image CD<br/> Trending posts <br/>- Top posts <br/>- Recommended post <br/>- Search post<br/>- Like, Dislike<br/>- Post CRUD<br/>- Comment, reply CRUD<br/>- Tag CRUD<br/></p> |
 
 <br/>
 
@@ -46,7 +46,7 @@
 
 ## <span style=""> ⚙️ **Tools** </span>
 
-**`기술발표영상`:** [기술발표영상](https://www.youtube.com/watch?v=WSenS382Kbs)
+**`Tech presentation`:** [LINK](https://www.youtube.com/watch?v=WSenS382Kbs)
 
 ### 🖥 **Communication** </span>
 
@@ -70,7 +70,7 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://img.icons8.com/color/48/null/nginx.png" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://media.discordapp.net/attachments/1090258986688843897/1091283675410346044/spring-security-project.png?width=500&height=500" alt="icon" width="65" height="65" /></div> | <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.discordapp.com/attachments/1080464895268638743/1090900997271994448/spring-data.png" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://media.discordapp.net/attachments/1090258986688843897/1091283978385903687/gradle-knowledge-graph-logo.png?width=640&height=640" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://pbs.twimg.com/profile_images/378800000264014940/da8da0c0e6dfbfc596f787ade49381a6_400x400.png" alt="icon" width="65" height="65" /></div> |
 
-`주요 사용 기술` <br/>
+`Stacks` <br/>
 - <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">  Java 11
 - <img src="https://img.shields.io/badge/Gradle-바탕색?style=flat&logo=Gradle&logoColor=white"/>  Gradle v7.6.1
 - <img src="https://img.shields.io/badge/Spring boot-바탕색?style=flat&logo=Spring boot&logoColor=white"/>  Spring Boot v2.7.9
@@ -118,7 +118,7 @@
 | <img alt='write-a-post-page' width="100%" src="https://user-images.githubusercontent.com/113220012/233506893-a79cdd97-a4ae-4657-b0da-9fd70956237e.gif"/> | <img alt='edit-a-post-page' width="100%" src="https://user-images.githubusercontent.com/113220012/229969627-67dbaa3c-e81b-4848-8e8b-2e10e07e31bc.png"/> |
 |                          **MyPage**                          |                     **Seoul Rent Page**                      |
 | <img width="100%" src="https://user-images.githubusercontent.com/113220012/233507561-4cf7ed34-d3d0-456f-a65b-f3a038ec55ec.gif"/> | <img width="100%" src="https://user-images.githubusercontent.com/113220012/233507728-96eba023-208e-4001-bb59-3a210f9950d4.gif"/> |
-|                   **Recommend Loan Page**                    |                **Public Rental Housing Page**                |
+|                   **Recommend Mortgage Page**                    |                **Available Home Properties Page**                |
 | <img alt='recommend-loan-page' width="100%" src="https://user-images.githubusercontent.com/113220012/233507982-70479083-b027-4137-a074-532eca28908b.gif"/> | <img alt='public-rental-housing-page' width="100%" src="https://user-images.githubusercontent.com/113220012/233508325-1199c9f3-3624-4df7-9bb3-4a3e56145c1b.gif"/> |
 |                        **Admin Page**                        |                        **Login Page**                        |
 | <img alt='admin-page' width="100%" src="https://user-images.githubusercontent.com/113220012/233508548-18492b8f-de37-4928-aab8-5461db41d13b.gif"/> | <img alt='login-page' width="100%" src="https://user-images.githubusercontent.com/113220012/229968705-b09612bf-68fd-4cac-bc14-141cd5a1105c.png"/> |
